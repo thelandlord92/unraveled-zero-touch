@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34916.146
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "zero_touch_unraveled", "zero_touch_unraveled.csproj", "{E4455B13-24DF-40E1-B3F8-DF7FE6DCE66E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E4455B13-24DF-40E1-B3F8-DF7FE6DCE66E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4455B13-24DF-40E1-B3F8-DF7FE6DCE66E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4455B13-24DF-40E1-B3F8-DF7FE6DCE66E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4455B13-24DF-40E1-B3F8-DF7FE6DCE66E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3B41E869-5B85-439C-93DF-F594167B1F9C}
+	EndGlobalSection
+EndGlobal
