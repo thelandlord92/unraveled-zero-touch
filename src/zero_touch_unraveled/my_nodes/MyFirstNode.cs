@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace zero_touch_unraveled
 {
-    public class Class1
+    public class MyFirstNode
     {
     }
 }
