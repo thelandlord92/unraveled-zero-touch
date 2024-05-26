@@ -10,7 +10,7 @@ namespace zero_touch_unraveled
     {
     }
 
-    public class TestNode
+    public class TestNodes
     {
 
     }
