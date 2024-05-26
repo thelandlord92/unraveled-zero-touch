@@ -9,4 +9,9 @@ namespace zero_touch_unraveled
     public class MyFirstNode
     {
     }
+
+    public class TestNode
+    {
+
+    }
 }
