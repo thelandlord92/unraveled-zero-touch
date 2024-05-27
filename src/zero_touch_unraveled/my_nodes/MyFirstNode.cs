@@ -17,11 +17,13 @@ namespace zero_touch_unraveled
         /// <summary>
         /// My first node that ouputs a string that says Hello World.
         /// </summary>
+        /// <param name="username">Your username</param>
+        /// <param name="extraMessage">Optional extra message</param>
         /// <returns name="helloWorldStriing">Our hello world node. </returns>
-        public static string HelloWorld(string username="user")
+        public static string HelloWorld(string username="user", string extraMessage="")
         {
             // returns one output of hello world.
-            return $"Hello, {username}";
+            return $"Hello, {username}. {extraMessage}";
         }
     }
 

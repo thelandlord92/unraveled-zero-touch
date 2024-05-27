@@ -9,10 +9,12 @@
             Wrapper class for my first node.
             </summary>
         </member>
-        <member name="M:zero_touch_unraveled.MyFirstNode.HelloWorld(System.String)">
+        <member name="M:zero_touch_unraveled.MyFirstNode.HelloWorld(System.String,System.String)">
             <summary>
             My first node that ouputs a string that says Hello World.
             </summary>
+            <param name="username">Your username</param>
+            <param name="extraMessage">Optional extra message</param>
             <returns name="helloWorldStriing">Our hello world node. </returns>
         </member>
     </members>
