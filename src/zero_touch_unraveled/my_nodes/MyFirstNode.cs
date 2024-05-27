@@ -17,16 +17,15 @@ namespace zero_touch_unraveled
         /// <summary>
         /// My first node that ouputs a string that says Hello World.
         /// </summary>
-        /// <param name="username">Your username</param>
         /// <param name="extraMessage">Optional extra message</param>
         /// <returns name="helloWorldStriing">Our hello world node. </returns>
-        public static string HelloWorld(string username="user", string extraMessage="")
+        public static string HelloWorld(string extraMessage="")
         {
+            string userName = System.Security.Principal.WindowsIdentity.GetCurrent().Name;
             // returns one output of hello world.
-            return $"Hello, {username}. {extraMessage}";
+            return $"Hello, {userName}. {extraMessage}";
         }
     }
-
 }
 
     
