@@ -5,6 +5,12 @@
     {
       "AbsoluteMoniker": "D:0:0:{E4455B13-24DF-40E1-B3F8-DF7FE6DCE66E}|zero_touch_unraveled.csproj|c:\\users\\omoba\\onedrive\\documents\\github\\unraveled-zero-touch\\src\\zero_touch_unraveled\\my_nodes\\myfirstnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E4455B13-24DF-40E1-B3F8-DF7FE6DCE66E}|zero_touch_unraveled.csproj|solutionrelative:my_nodes\\myfirstnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|zero_touch_unraveled||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4455B13-24DF-40E1-B3F8-DF7FE6DCE66E}|zero_touch_unraveled.csproj|c:\\users\\omoba\\onedrive\\documents\\github\\unraveled-zero-touch\\src\\zero_touch_unraveled\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|a54ad834-9219-4aa6-b589-607af21c3e26"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +20,20 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "zero_touch_unraveled",
+              "DocumentMoniker": "C:\\Users\\omoba\\OneDrive\\Documents\\GitHub\\unraveled-zero-touch\\src\\zero_touch_unraveled\\zero_touch_unraveled.csproj",
+              "RelativeDocumentMoniker": "zero_touch_unraveled.csproj",
+              "ToolTip": "C:\\Users\\omoba\\OneDrive\\Documents\\GitHub\\unraveled-zero-touch\\src\\zero_touch_unraveled\\zero_touch_unraveled.csproj",
+              "RelativeToolTip": "zero_touch_unraveled.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-05-27T13:06:03.656Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,14 +42,10 @@
               "RelativeDocumentMoniker": "my_nodes\\MyFirstNode.cs",
               "ToolTip": "C:\\Users\\omoba\\OneDrive\\Documents\\GitHub\\unraveled-zero-touch\\src\\zero_touch_unraveled\\my_nodes\\MyFirstNode.cs",
               "RelativeToolTip": "my_nodes\\MyFirstNode.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAFAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-25T19:24:19.185Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }
