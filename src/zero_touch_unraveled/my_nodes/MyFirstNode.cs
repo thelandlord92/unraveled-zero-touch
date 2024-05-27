@@ -17,11 +17,11 @@ namespace zero_touch_unraveled
         /// <summary>
         /// My first node that ouputs a string that says Hello World.
         /// </summary>
-        /// <returns></returns>
-        public static string HelloWorld()
+        /// <returns name="helloWorldStriing">Our hello world node. </returns>
+        public static string HelloWorld(string username)
         {
             // returns one output of hello world.
-            return "Hello world " + DateTime.Now;
+            return "Hello" + username;
         }
     }
 
