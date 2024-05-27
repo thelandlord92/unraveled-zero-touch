@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>zero_touch_unraveled</name>
+    </assembly>
+    <members>
+        <member name="T:zero_touch_unraveled.MyFirstNode">
+            <summary>
+            Wrapper class for my first node.
+            </summary>
+        </member>
+        <member name="M:zero_touch_unraveled.MyFirstNode.HelloWorld">
+            <summary>
+            My first node that ouputs a string that says Hello World.
+            </summary>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
