@@ -8,10 +8,13 @@ namespace zero_touch_unraveled
 {
     public class MyFirstNode
     {
+        public MyFirstNode() { }
+        public static string HelloWorld()
+        {
+            return "Hello world";
+        }
     }
 
-    public class TestNodes
-    {
-
-    }
 }
+
+    
