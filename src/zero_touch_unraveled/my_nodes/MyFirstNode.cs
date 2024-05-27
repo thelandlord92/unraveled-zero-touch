@@ -18,10 +18,10 @@ namespace zero_touch_unraveled
         /// My first node that ouputs a string that says Hello World.
         /// </summary>
         /// <returns name="helloWorldStriing">Our hello world node. </returns>
-        public static string HelloWorld(string username)
+        public static string HelloWorld(string username="user")
         {
             // returns one output of hello world.
-            return "Hello" + username;
+            return $"Hello, {username}";
         }
     }
 
