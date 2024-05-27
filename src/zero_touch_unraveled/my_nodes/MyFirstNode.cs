@@ -8,10 +8,10 @@ namespace zero_touch_unraveled
 {
     public class MyFirstNode
     {
-        public MyFirstNode() { }
+        private MyFirstNode() { }
         public static string HelloWorld()
         {
-            return "Hello world";
+            return "Hello world " + DateTime.Now;
         }
     }
 
