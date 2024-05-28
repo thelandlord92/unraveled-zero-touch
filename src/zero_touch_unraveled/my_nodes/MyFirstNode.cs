@@ -22,7 +22,7 @@ namespace zero_touch_unraveled
         public static string HelloWorld(string extraMessage="")
         {
             string userName = System.Security.Principal.WindowsIdentity.GetCurrent().Name;
-            // returns one output of hello world.
+            // returns one output of hello world.     
             return $"Hello, {userName}. {extraMessage}";
         }
     }
