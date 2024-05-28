@@ -14,7 +14,19 @@
             My first node that ouputs a string that says Hello World.
             </summary>
             <param name="extraMessage">Optional extra message</param>
-            <returns name="helloWorldStriing">Our hello world node. </returns>
+            <returns name="helloWorldString">Our hello world node. </returns>
+        </member>
+        <member name="T:zero_touch_unraveled.Revit.Views.Sheet.Sheet">
+            <summary>
+            Wrapper class for sheet node.
+            </summary>
+        </member>
+        <member name="M:zero_touch_unraveled.Revit.Views.Sheet.Sheet.GetAllPlacedViews(Revit.Elements.Views.Sheet)">
+            <summary>
+            Get all placed views on the input sheet.
+            </summary>
+            <param name="sheet">Add a sheet input</param>
+            <returns name="views">the views on the input sheet</returns>
         </member>
     </members>
 </doc>

@@ -18,7 +18,7 @@ namespace zero_touch_unraveled
         /// My first node that ouputs a string that says Hello World.
         /// </summary>
         /// <param name="extraMessage">Optional extra message</param>
-        /// <returns name="helloWorldStriing">Our hello world node. </returns>
+        /// <returns name="helloWorldString">Our hello world node. </returns>
         public static string HelloWorld(string extraMessage="")
         {
             string userName = System.Security.Principal.WindowsIdentity.GetCurrent().Name;
@@ -27,5 +27,3 @@ namespace zero_touch_unraveled
         }
     }
 }
-
-    
