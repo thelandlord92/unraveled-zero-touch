@@ -66,8 +66,15 @@ namespace zero_touch_unraveled.Revit.Views
             // start the transaction in the current Revit document.
             TransactionManager.Instance.EnsureInTransaction(doc);
 
-            // set the number of the sheet.
-            viewSheet.SheetNumber = sheetNumber;
+            try
+            {
+                // set the number of the sheet.
+                viewSheet.SheetNumber = sheetNumber;
+            }
+            catch (System.Exception)
+            {
+                throw new System.Exception("Sorry can't have two sheets with the same number.");
+            }
 
             // End the transaction.
             TransactionManager.Instance.TransactionTaskDone();
