@@ -217,4 +217,9 @@
   </ItemGroup>
   <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <PropertyGroup>
+    <PostBuildEvent>copy /Y $(TargetPath) "C:\Users\omoba\AppData\Roaming\Dynamo\Dynamo Revit\2.18\packages\Zero Touch Unraveled\bin\$(TargetFileName)"
+
+copy /Y "$(TargetDir)$(TargetName).xml" "C:\Users\omoba\AppData\Roaming\Dynamo\Dynamo Revit\2.18\packages\Zero Touch Unraveled\bin\$(TargetName).xml"</PostBuildEvent>
+  </PropertyGroup>
 </Project>
