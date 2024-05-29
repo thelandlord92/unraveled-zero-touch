@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>zero_touch_unraveled</name>
+    </assembly>
+    <members>
+        <member name="T:zero_touch_unraveled.MyFirstNode">
+            <summary>
+            Wrapper class for my first node.
+            </summary>
+        </member>
+        <member name="M:zero_touch_unraveled.MyFirstNode.HelloWorld(System.String)">
+            <summary>
+            My first node that ouputs a string that says Hello World.
+            </summary>
+            <param name="extraMessage">Optional extra message</param>
+            <returns name="helloWorldString">Our hello world node. </returns>
+        </member>
+        <member name="T:zero_touch_unraveled.Revit.Views.Sheet">
+            <summary>
+            Wrapper class for sheet node.
+            </summary>
+        </member>
+        <member name="M:zero_touch_unraveled.Revit.Views.Sheet.GetAllPlacedViews(Revit.Elements.Views.Sheet)">
+            <summary>
+            Get all placed views on the input sheet.
+            </summary>
+            <param name="sheet">Add a sheet input</param>
+            <returns name="views">the views on the input sheet</returns>
+        </member>
+        <member name="M:zero_touch_unraveled.Revit.Views.Sheet.SetSheetNumber(Revit.Elements.Views.Sheet,System.String)">
+            <summary>
+            Sets the number of the sheet.
+            </summary>
+            <param name="sheet"></param>
+            <param name="sheetNumber"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

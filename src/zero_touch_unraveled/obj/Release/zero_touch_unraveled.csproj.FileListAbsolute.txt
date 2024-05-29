@@ -1,0 +1,8 @@
+C:\Users\omoba\OneDrive\Documents\GitHub\unraveled-zero-touch\src\zero_touch_unraveled\bin\Release\zero_touch_unraveled.dll.config
+C:\Users\omoba\OneDrive\Documents\GitHub\unraveled-zero-touch\src\zero_touch_unraveled\bin\Release\zero_touch_unraveled.dll
+C:\Users\omoba\OneDrive\Documents\GitHub\unraveled-zero-touch\src\zero_touch_unraveled\bin\Release\zero_touch_unraveled.pdb
+C:\Users\omoba\OneDrive\Documents\GitHub\unraveled-zero-touch\src\zero_touch_unraveled\obj\Release\zero_touch_unraveled.csproj.AssemblyReference.cache
+C:\Users\omoba\OneDrive\Documents\GitHub\unraveled-zero-touch\src\zero_touch_unraveled\obj\Release\zero_touch_unraveled.csproj.CoreCompileInputs.cache
+C:\Users\omoba\OneDrive\Documents\GitHub\unraveled-zero-touch\src\zero_touch_unraveled\obj\Release\zero_touch_unraveled.dll
+C:\Users\omoba\OneDrive\Documents\GitHub\unraveled-zero-touch\src\zero_touch_unraveled\obj\Release\zero_touch_unraveled.pdb
+C:\Users\omoba\OneDrive\Documents\GitHub\unraveled-zero-touch\src\zero_touch_unraveled\bin\Release\zero_touch_unraveled.xml
