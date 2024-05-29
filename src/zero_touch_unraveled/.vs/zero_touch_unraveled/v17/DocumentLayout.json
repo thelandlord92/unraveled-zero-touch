@@ -10,6 +10,10 @@
       "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|zero_touch_unraveled||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{E4455B13-24DF-40E1-B3F8-DF7FE6DCE66E}|zero_touch_unraveled.csproj|c:\\users\\omoba\\onedrive\\documents\\github\\unraveled-zero-touch\\src\\zero_touch_unraveled\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4455B13-24DF-40E1-B3F8-DF7FE6DCE66E}|zero_touch_unraveled.csproj|solutionrelative:properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E4455B13-24DF-40E1-B3F8-DF7FE6DCE66E}|zero_touch_unraveled.csproj|c:\\users\\omoba\\onedrive\\documents\\github\\unraveled-zero-touch\\src\\zero_touch_unraveled\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|1e78f8db-6c07-4d61-a18f-7514010abd56"
     }
   ],
@@ -20,8 +24,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\omoba\\OneDrive\\Documents\\GitHub\\unraveled-zero-touch\\src\\zero_touch_unraveled\\Properties\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "Properties\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\omoba\\OneDrive\\Documents\\GitHub\\unraveled-zero-touch\\src\\zero_touch_unraveled\\Properties\\AssemblyInfo.cs",
+              "RelativeToolTip": "Properties\\AssemblyInfo.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABoAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T09:06:04.215Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
@@ -42,7 +59,7 @@
               "RelativeDocumentMoniker": "Revit\\Views\\Sheet.cs",
               "ToolTip": "C:\\Users\\omoba\\OneDrive\\Documents\\GitHub\\unraveled-zero-touch\\src\\zero_touch_unraveled\\Revit\\Views\\Sheet.cs",
               "RelativeToolTip": "Revit\\Views\\Sheet.cs",
-              "ViewState": "AQIAADsAAAAAAAAAAAAgwA8AAAASAAAA",
+              "ViewState": "AQIAADsAAAAAAAAAAAAgwEEAAAA5AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-28T20:00:15.345Z",
               "EditorCaption": ""
